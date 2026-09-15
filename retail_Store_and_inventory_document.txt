@@ -1,0 +1,38 @@
+Supply Chain & Inventory Performance Analysis
+
+Project Overview : 
+
+This project analyzes retail store inventory and supply chain performance using Microsoft Excel.
+
+The analysis focuses on inventory levels, product demand, sales performance, demand forecasting, stock availability, pricing, discounts, promotions, seasonality, and competitor pricing.
+
+Dataset :
+
+The dataset contains retail inventory and demand-related information.
+
+Date
+Store ID
+Product ID
+Category
+Region
+Inventory level
+Units Sold
+Units Ordered
+Demand Forecast
+Price
+Discount
+Weather Condition
+Holiday/Promortion
+competitor Pricing
+Seasonality
+
+
+Bussiness Questions :
+
+What are total units sold and sales revenue by product category?
+Which stores hold the highest inventory levels?
+Which regions generate the highest units sold?
+Which products have the highest actual demand?
+How do units sold, units ordered, and inventory levels change over time?
+How do discounts and holiday/promotional periods affect units sold and revenue?
+How are seasonality, weather conditions, promotions, discounts, and competitor pricing associated with changes in demand?
